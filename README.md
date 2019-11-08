@@ -36,4 +36,6 @@ mvn spring-boot:run
 
 ## Notas
 
+- Swagger2-ui integrado: Pueden verse los endpoints/modelos en http://localhost:8080/swagger-ui.html 
+
 - No necesita script .sql para crear base de datos y/o tablas. Se creara bd ingtest por default
